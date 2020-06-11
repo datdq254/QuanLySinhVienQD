@@ -10,4 +10,10 @@ var SinhVien = function() {
         console.log("dasdasddsa");
         
     }
+    this.xoasinhvien = function(){
+        console.log("DSFFsdf");
+        console.log(" I L Y");
+        
+        
+    }
 }
