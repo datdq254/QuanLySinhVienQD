@@ -1,8 +1,11 @@
 var DanhSachSinhVien = function() {
     this.dssv = [];
-    this.hienthithongtin = function(){
         console.log("Hien thi thong tin");
         
         
     }
+    this.capNhatSinhVien = function() {
+    }
+this.hienThiThongTinSinhVien = function() {
+    console.log('Hien Thi Thong Tin SV');
 }
