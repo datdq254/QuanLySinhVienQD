@@ -6,4 +6,9 @@ var SinhVien = function() {
     this.DiemToan = '';
     this.DiemLy = '';
     this.DiemHoa = '';
+
+    this.xuatThongTinSV = function() {
+        console.log(this.MaSV);
+        console.log(this.HoTen);
+    }
 }
