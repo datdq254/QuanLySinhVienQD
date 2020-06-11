@@ -7,7 +7,7 @@ var SinhVien = function() {
     this.DiemLy = '';
     this.DiemHoa = '';
 
-    this.xuatThongTinSV1 = function() {
+    this.xuatThongTinSV = function() {
         console.log(this.MaSV);
         console.log(this.HoTen);
     }
